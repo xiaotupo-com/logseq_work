@@ -1,0 +1,12 @@
+- Spacing
+	- space-xx https://tailwindcss.com/docs/space
+	- Margin https://tailwindcss.com/docs/margin
+	- Padding https://tailwindcss.com/docs/padding
+- w-xx https://tailwindcss.com/docs/width
+- flex
+	- justify-center
+	- items-center
+	- flex-clo
+	- flex-row
+- Hover,Focus https://tailwindcss.com/docs/hover-focus-and-other-states
+-
